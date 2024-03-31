@@ -1,7 +1,0 @@
-services: 
-- name:  selenium
-  env:  {}
-  plan:  free
-  type:  web
-  port:  4444
-  image:  selenium/standalone-chrome
