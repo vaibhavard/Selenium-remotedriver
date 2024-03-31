@@ -1,0 +1,6 @@
+services: 
+- name:  selenium
+  env:  {}
+  plan:  starter
+  port:  4444
+  image:  selenium/standalone-chrome
